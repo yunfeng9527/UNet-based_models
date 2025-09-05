@@ -1,0 +1,11 @@
+fvcore==0.1.5.post20210915
+numpy==2.3.2
+opencv_python==4.10.0.84
+pandas==2.3.2
+Pillow==11.3.0
+scipy==1.16.1
+thop==0.1.1.post2209072238
+torch==2.3.1
+torchvision==0.18.1
+tqdm==4.66.6
+tqdm==4.67.1
